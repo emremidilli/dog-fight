@@ -4,3 +4,4 @@ seaborn==0.13.2
 scikit-learn==1.5.1
 matplotlib==3.9.1
 tqdm==4.66.5
+torch==2.7.1

@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:2.15.0rc1-gpu
+FROM pytorch/pytorch:2.4.1-cuda11.8-cudnn9-runtime
 
 LABEL maintainer="yunusemremidilli@gmail.com"
 
