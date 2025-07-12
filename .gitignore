@@ -1,4 +1,8 @@
 secrets.env
+secrets.txt
+github_token.txt
+environment/airsim/AirSim
+environment/airsim/UnrealEngine
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

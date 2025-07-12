@@ -1,2 +1,4 @@
-# dog-fight
-Dog-fight project
+# Purpose
+Purpose of this project is to develop autonomous air combat for UAVs.
+
+# Scope
